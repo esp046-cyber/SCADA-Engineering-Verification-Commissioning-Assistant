@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "SCADA Engineering Verification & Commissioning Assistant",
+  "short_name": "SCADA EVC",
+  "description": "Offline assistant for SCADA I/O verification, tag checks, alarm/trip tests, FAT/SAT, commissioning checklists, defects and reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0e1317",
+  "theme_color": "#0e1317",
+  "categories": ["productivity", "utilities", "business"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
